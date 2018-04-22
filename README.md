@@ -9,3 +9,8 @@ Client Side:
 -It is made on Angular (latest version 5.2.0).  
 -It takes in a single integer input (won't return anything if the input is not an integer), and on pressing the submit button or Enter,  it makes a get request to the api at backend.  
 -Api returns the data which is then shown at the client side in the tabular form.
+
+
+Test:
+Test input = 8
+![alt text](https://raw.githubusercontent.com/akshitagarwal10/nodeAngular1/master/test1.png)
