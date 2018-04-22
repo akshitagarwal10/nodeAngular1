@@ -10,6 +10,7 @@ Client Side:
 -It takes in a single integer input, and on pressing the submit button or Enter,  it makes a get request to the api at backend.  
 -Api returns the data which is then shown at the client side in the tabular form.
 
+*If a number greater than the max. distinct words is used, it will simply return all the words.
 
 Test:
 Test input = 8
